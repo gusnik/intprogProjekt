@@ -1,5 +1,5 @@
 
-movieDataApp.controller('MovieCtrl', function ($scope,$routeParams,Dinner) {
+movieDataApp.controller('MovieCtrl', function ($scope,Movie) {
   
 
 

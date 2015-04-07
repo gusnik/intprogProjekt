@@ -1,5 +1,5 @@
 
-movieDataApp.controller('SearchCtrl', function ($scope,Dinner) {
+movieDataApp.controller('SearchCtrl', function ($scope,Movie) {
 
 
 

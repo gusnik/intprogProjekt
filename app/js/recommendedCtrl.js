@@ -1,5 +1,5 @@
 
-movieDataApp.controller('RecommendedCtrl', function ($scope,$routeParams,Dinner) {
+movieDataApp.controller('RecommendedCtrl', function ($scope,Movie) {
  
 
 });

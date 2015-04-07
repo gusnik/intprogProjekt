@@ -1,5 +1,5 @@
 
-movieDataApp.factory('Dinner',function ($resource, $cookieStore) {
+movieDataApp.controller('FavouritesCtrl', function ($scope,Movie) {
   return this;
 
 });

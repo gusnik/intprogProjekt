@@ -12,12 +12,12 @@ dinnerPlannerApp.config(['$routeProvider',
         controller: 'SearchCtrl'
       }).
       when('/dish/:dishId', {
-        templateUrl: 'partials/dish.html',
-        controller: 'DishCtrl'
+        templateUrl: 'partials/movie.html',
+        controller: 'MovieCtrl'
       }).
       when('/checkout', {
-        templateUrl: 'partials/checkout.html',
-        controller: 'CheckCtrl'
+        templateUrl: 'partials/recommended.html',
+        controller: 'RecommendedCtrl'
       }).
       when('/final-page', {
         templateUrl: 'partials/final-page.html',

@@ -1,4 +1,4 @@
-movieDataApp.controller('StartCtrl', function ($scope,Dinner) {
+movieDataApp.controller('StartCtrl', function ($scope,Movie) {
 
   }
 
